@@ -1,8 +1,11 @@
 "# wellness-consultant" 
+
 Overview
+
 The Wellness Consultant is a Python program designed to provide personalized daily wellness plans. Based on user input regarding weight, age, height, and personal goals, the program generates recommendations for water intake, protein intake, workout routines, and mental and emotional wellness tips. 
 
 Features
+
 Calculates daily water and protein intake based on user data.
 Provides personalized workout plans.
 Offers mental and emotional wellness tips tailored to user goals.
